@@ -1,0 +1,7 @@
+{
+  "name": "Modest Dark",
+  "version": "0.1.0",
+  "authors": ["Timothy Cole <tim@timcole.me>"],
+  "description": "A modest zed theme based on one dark but with brighter colours on a darker background",
+  "repository": "https://github.com/timcole/modest-dark"
+}
