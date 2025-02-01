@@ -1,6 +1,6 @@
 id = "modest-dark"
 name = "Modest Dark"
-version = "0.1.4"
+version = "0.1.5"
 schema_version = 1
 authors = ["Timothy Cole <tim@timcole.me>"]
 description = "A modest zed theme based on one dark but with brighter colours on a darker background"
