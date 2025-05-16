@@ -49,7 +49,7 @@
         "panel.indent_guide_active": "#1e242e",
         "panel.focused_border": null,
         "pane.focused_border": null,
-        "scrollbar.thumb.background": "#1e242e",
+        "scrollbar.thumb.background": "#1e242e45",
         "scrollbar.thumb.hover_background": "#1e242e",
         "scrollbar.thumb.border": "#0F1219",
         "scrollbar.track.background": "#0F1219",
