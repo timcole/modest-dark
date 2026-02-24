@@ -239,7 +239,23 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "vim.normal.background": "#8cc265",
+        "vim.normal.foreground": "#121212",
+        "vim.helix_normal.background": "#F59E0B",
+        "vim.helix_normal.foreground": "#121212",
+        "vim.visual.background": "#c162de",
+        "vim.visual.foreground": "#0F1219",
+        "vim.visual_block.background": "#D97706",
+        "vim.insert.background": "#5ab0f6",
+        "vim.insert.foreground": "#0F1219",
+        "vim.visual_line.background": "#c162de",
+        "vim.visual_line.foreground": "#0F1219",
+        "vim.visual_block.foreground": "#eaeaea",
+        "vim.helix_select.background": "#8a8a8d",
+        "vim.helix_select.foreground": "#0f1219",
+        "vim.replace.background": "#ef5f6b",
+        "vim.replace.foreground": "#0f1219"
       }
     }
   ]
